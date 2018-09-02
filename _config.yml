@@ -1,11 +1,11 @@
 # Site settings
 author: Tam Vu
-title: 
+title: tamvu.net
 header-img: img/home-bg.png
 email: vutam_a@hotmail.com
 copyright_name: Tam Vu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  flatiron
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  iamtamtamiam
