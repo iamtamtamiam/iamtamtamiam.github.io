@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "**#Teaching.toLearning**"
-date:       2018-09-14 00:36:47 +0000
+date:       2018-09-13 20:36:48 -0400
 permalink:  teaching_tolearning
 ---
 
