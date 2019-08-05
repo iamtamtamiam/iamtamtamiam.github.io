@@ -50,7 +50,7 @@ def call
     #show_district_info_for(@district_selection)
     #return_or_exit #maybe find way to exit anytime
   end 
-	```
+```
 
 Then it was time to start building each method. "It's just scraping in this method, right?" I thought to myself. Well yes, but no.
 - First I had to build a scraper method...which requires a scraper class...
@@ -129,7 +129,7 @@ Then came the code refactoring. I would like to take another moment to once agai
       call
   end
  end 
- ```
+```
 
 - After:
  ```
@@ -145,7 +145,7 @@ Then came the code refactoring. I would like to take another moment to once agai
       end
     end 
   end 
-	```
+```
 
 
 
