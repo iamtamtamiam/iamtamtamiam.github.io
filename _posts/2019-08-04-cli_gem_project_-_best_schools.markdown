@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Gem Project - Best_Schools"
-date:       2019-08-05 03:02:37 +0000
+date:       2019-08-04 23:02:38 -0400
 permalink:  cli_gem_project_-_best_schools
 ---
 
@@ -13,8 +13,9 @@ if you_get_it && funny
   chuckle
 else 
   crickets
-end 
-	```
+end ```
+
+
 
 #### What’s a teacher’s favorite district?
 ...well let me introduce you to my gem for my CLI project. 
